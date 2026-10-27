@@ -1,12 +1,12 @@
 {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/olivier-w/climp/releases/download/v0.3.1/climp_0.3.1_windows_amd64.zip",
+            "url": "https://github.com/olivier-w/climp/releases/download/v0.3.2/climp_v0.3.2_windows_amd64.zip",
             "bin": [
                 "climp.exe"
             ],
-            "hash": "4a2ce25f36f917f697c2d7f9b07b6037960274220b5d21085564c9f0545a7432"
+            "hash": "ec823349038dc3e507f83607dca2b2acc5868207433c1c5abb5255018987e2c9"
         }
     },
     "homepage": "https://github.com/olivier-w/climp",
